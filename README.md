@@ -5,4 +5,4 @@ NIM   : 1103184054
 
 
 
-Gunakan https://remix.ethereum.org/ untuk membuka source code
+Gunakan https://remix.ethereum.org/ untuk menjalankan source code
