@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: GPL-3.0
 pragma solidity 0.8.1;
 
-contract RolloverExample {
+contract rolloverExample {
     uint8 public myUint8;
     function decrement() public {
         unchecked {
