@@ -4,5 +4,3 @@ Nama  : Agung Panjimasjaya
 NIM   : 1103184054
 
 
-
-Gunakan https://remix.ethereum.org/ untuk menjalankan source code
